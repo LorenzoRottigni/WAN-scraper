@@ -6,3 +6,4 @@ parsel==1.6.0
 w3lib==1.22.0
 pyOpenSSL==21.0.0
 cryptography==3.4.7
+dnspython==2.3.0
