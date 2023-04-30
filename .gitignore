@@ -1,0 +1,20 @@
+# VENV
+scraper/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scrapy files
+.scrapy/
+scrapy.cfg
+
+# Virtual environment
+venv/
+
+# Log files
+*.log
+
+# Other files
+.DS_Store
